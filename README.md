@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Manmeet Dhingra</h1>
+<h1 align="center">Hello -- My name is Manmeet Dhingra 👳🏻‍♂️</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate front-end developer with a unique background. I hold a Master of Pharmacy (MPharm) from the University of Birmingham and I'm a GPHC licensed pharmacist. Recently, I made the exciting transition into the world of software engineering, allowing me to expand my skills and knowledge.</h3>
 
 <h3 align="left">Connect with me: manmeetdhingra@googlemail.com</h3>
