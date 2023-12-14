@@ -45,7 +45,7 @@ I'm always open to networking, collaborating on exciting projects, or just havin
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/manmeetdhingra/)
 - 📧 [Email](mailto:manmeetdhingra@googlemail.com)
-- 🌐 [Portfolio Website] - (🚧 Under Construction 🚧)
+- 🌐 [Portfolio Website](https://www.manmeetdhingra.com)
 
 Thanks for stopping by, and happy coding! 👨‍💻✨
 
